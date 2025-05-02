@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/hossainsafwan/hossainsafwan/refs/heads/main/bg.jpeg" width="100%" style="position: absolute; top: 0; left: 0; z-index: -1;">
+    <img src="https://raw.githubusercontent.com/hossainsafwan/hossainsafwan/refs/heads/main/bg.jpeg" width="70%" style="position: absolute; top: 0; left: 0; z-index: -1;">
 </p>
 
 <p align="center">
